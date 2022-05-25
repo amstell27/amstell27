@@ -4,7 +4,8 @@ Welcome to my GitHub page!
 
 Software QA Engineer more 5 years, practicing QA automation
 
-One of the latest project: 
+My final project at the course QA.GURU: 
+https://github.com/amstell27/citilink-diplom--project
 
 
 <!--

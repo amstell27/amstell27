@@ -32,3 +32,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Jenkins](https://user-images.githubusercontent.com/28450611/170349781-a7c25b40-de58-495e-8328-83cf82e26a89.svg)
+![JUnit5](https://user-images.githubusercontent.com/28450611/170349785-6a3c0530-8f38-49fe-88a9-15b58b1d9060.svg)
+![Selenide](https://user-images.githubusercontent.com/28450611/170349787-3215212f-1426-45da-b2c1-9ee41ce06b6f.svg)
+![Selenoid](https://user-images.githubusercontent.com/28450611/170349789-d57e7ad8-776e-40a3-bf55-e9790827c0bf.svg)
+![Telegram](https://user-images.githubusercontent.com/28450611/170349791-38dd4a43-80b6-40dc-a68b-b449c6160d35.svg)
+![Allure_Report](https://user-images.githubusercontent.com/28450611/170349793-194c5242-2f7d-4830-a292-a031fd241d39.svg)
+![GitHub](https://user-images.githubusercontent.com/28450611/170349794-77bef262-51e5-4633-a7be-70dd1c7ec9cf.svg)
+![Gradle](https://user-images.githubusercontent.com/28450611/170349796-83dc2ec3-8033-48eb-8504-39459c4b1004.svg)
+![Intelij_IDEA](https://user-images.githubusercontent.com/28450611/170349797-1bfe3a5c-2ea1-479e-ad5c-e48152181bd9.svg)
+![Java](https://user-images.githubusercontent.com/28450611/170349798-57271eec-42bb-4936-941b-f23a1dc60885.svg)

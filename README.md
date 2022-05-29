@@ -2,7 +2,7 @@
 
 Welcome to my GitHub page!
 
-Software QA Engineer more 5 years, practicing QA automation
+QA Engineer more 5 years. Take the first steps in automation.
 
 My final project at the course QA.GURU: 
 
